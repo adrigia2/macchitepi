@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientBancomat", "ClientBancomat\ClientBancomat.csproj", "{2B57F086-4A4B-4DBC-8CC0-40A2BDE2F64A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B57F086-4A4B-4DBC-8CC0-40A2BDE2F64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B57F086-4A4B-4DBC-8CC0-40A2BDE2F64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B57F086-4A4B-4DBC-8CC0-40A2BDE2F64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B57F086-4A4B-4DBC-8CC0-40A2BDE2F64A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB62C042-863A-4D70-88EC-72CFDBE4058B}
+	EndGlobalSection
+EndGlobal
